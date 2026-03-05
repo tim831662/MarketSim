@@ -15,3 +15,7 @@ MarketSim is a stock‑market simulation platform that lets new users practice t
 ## Purpose
 
 MarketSim helps beginners understand market behavior, build confidence, and develop trading skills through hands‑on experience using simulated cash.
+
+## Project Documents
+- [Design Document](https://docs.google.com/document/d/1PW64tjgkKlei9Q3aRZAYbmCd0I2QY8no/edit?usp=sharing&ouid=100762788333557326392&rtpof=true&sd=true)
+
