@@ -19,4 +19,4 @@ MarketSim helps beginners understand market behavior, build confidence, and deve
 ## Project Documents
 - [Design Document](https://docs.google.com/document/d/1PW64tjgkKlei9Q3aRZAYbmCd0I2QY8no/edit?usp=sharing&ouid=100762788333557326392&rtpof=true&sd=true)
 - [Design-1](https://docs.google.com/document/d/17Z4w9opVWm8NiADJNWtpkngE5oFv4iz8Rmocw68HJBw/edit?usp=drive_link)
-
+- [Design-2](https://docs.google.com/document/d/1hFz69EhPZxGwFmsLQKEzVkDrNaQT5RgciSqfMG1mSVw/edit?usp=sharing)
